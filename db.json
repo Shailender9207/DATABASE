@@ -1,5 +1,7 @@
 [
-    "comments":{
+    "comments":
+    [
+    
     {
         "id": 1,
         "name": "Quatar Airways",
@@ -220,5 +222,5 @@
         "website": "www.singaporeair.com",
         "established": "1947"
     }
-}
+]
 ]
